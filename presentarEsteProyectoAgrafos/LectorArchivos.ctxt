@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LectorArchivos
+comment1.params=grafo\ escritor
+comment1.target=LectorArchivos(GrafoViajes,\ EscritorArchivos)
+comment2.params=rutaArchivo
+comment2.target=void\ cargarAeropuertos(java.lang.String)
+comment3.params=rutaArchivo
+comment3.target=void\ cargarVuelos(java.lang.String)
+comment4.params=partes
+comment4.target=void\ procesarVuelo(java.lang.String[])
+comment5.params=origen\ destino\ criterio
+comment5.target=void\ guardarBusquedaEntrada(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=origen\ destino\ causa
+comment6.target=void\ guardarReprogramarEntrada(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=7

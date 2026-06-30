@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EscritorArchivos
+comment1.params=rutaArchivo
+comment1.target=EscritorArchivos(java.lang.String)
+comment2.params=
+comment2.target=void\ abrir()
+comment3.params=linea
+comment3.target=void\ escribirLinea(java.lang.String)
+comment4.params=
+comment4.target=void\ cerrar()
+comment5.params=codigo\ origen\ destino
+comment5.target=void\ escribirVueloCargado(int,\ java.lang.String,\ java.lang.String)
+comment6.params=origen\ destino\ criterio
+comment6.target=void\ escribirEncabezadoBusqueda(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=pesoTotal\ unidad\ itinerario
+comment7.target=void\ escribirResultadoRuta(double,\ java.lang.String,\ java.lang.String)
+comment8.params=origen\ destino\ causa
+comment8.target=void\ escribirReprogramacion(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=void\ escribirSinRuta()
+numComments=10

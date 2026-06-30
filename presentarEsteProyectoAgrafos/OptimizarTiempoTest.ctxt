@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=OptimizarTiempoTest
+comment1.params=
+comment1.target=void\ tiempo_vueloNormal()
+comment2.params=
+comment2.target=void\ tiempo_vueloCorto()
+comment3.params=
+comment3.target=void\ tiempo_vueloLargo()
+comment4.params=
+comment4.target=void\ tiempo_vueloPassaMedianoche()
+numComments=5

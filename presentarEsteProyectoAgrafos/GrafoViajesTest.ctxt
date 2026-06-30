@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GrafoViajesTest
+comment1.params=
+comment1.target=GrafoViajes\ crearGrafoBase()
+comment2.params=
+comment2.target=void\ grafo_agregarUnAeropuerto()
+comment3.params=
+comment3.target=void\ grafo_agregarVariosAeropuertos()
+comment4.params=
+comment4.target=void\ grafo_conectarViajeValido()
+comment5.params=
+comment5.target=void\ grafo_conectarViajeOrigenInexistente()
+comment6.params=
+comment6.target=void\ grafo_rutaDirectaExiste()
+comment7.params=
+comment7.target=void\ grafo_origenInexistente()
+numComments=8

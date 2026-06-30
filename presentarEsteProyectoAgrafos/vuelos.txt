@@ -1,0 +1,357 @@
+aerolinea,codigo,origen,destino,tipoViaje,tipoDestino,horaSalida,horaLlegada,capacidad,costo,promocion,penalizacion
+BoA,101,La Paz,Santa Cruz,Directo,Nacional,600,730,150,89.00,PorTiempo,Ninguna
+BoA,102,La Paz,Cochabamba,Directo,Nacional,700,745,120,55.00,Ninguna,Ninguna
+BoA,103,La Paz,Sucre,Directo,Nacional,800,855,100,75.00,PorTiempo,Ninguna
+BoA,104,La Paz,Tarija,EscalaDirecta,Nacional,900,1020,100,110.00,PorDistancia,Ninguna
+BoA,105,La Paz,Potosi,Directo,Nacional,1000,1045,80,65.00,PorTiempo,Ninguna
+BoA,106,La Paz,Trinidad,Directo,Nacional,1100,1215,100,95.00,Ninguna,Ninguna
+BoA,107,La Paz,Riberalta,Transbordo,Nacional,1200,1400,80,130.00,Ninguna,Ninguna
+BoA,108,La Paz,Guayaramerin,Transbordo,Nacional,1300,1500,80,140.00,PorTiempo,Ninguna
+BoA,109,La Paz,Cobija,EscalaDirecta,Nacional,1400,1530,80,120.00,Ninguna,Ninguna
+EcoJet,110,Santa Cruz,La Paz,Directo,Nacional,600,730,150,89.00,PorDistancia,Ninguna
+EcoJet,111,Santa Cruz,Cochabamba,Directo,Nacional,700,800,120,60.00,PorDistancia,Ninguna
+EcoJet,112,Santa Cruz,Sucre,Directo,Nacional,800,900,100,70.00,Ninguna,Ninguna
+EcoJet,113,Santa Cruz,Tarija,Directo,Nacional,900,1010,100,85.00,PorDistancia,Ninguna
+EcoJet,114,Santa Cruz,Potosi,EscalaDirecta,Nacional,1000,1110,80,90.00,Ninguna,Ninguna
+EcoJet,115,Santa Cruz,Trinidad,Directo,Nacional,1100,1145,120,55.00,PorDistancia,Ninguna
+EcoJet,116,Santa Cruz,Riberalta,Directo,Nacional,1200,1320,100,100.00,PorDistancia,Ninguna
+EcoJet,117,Santa Cruz,Guayaramerin,EscalaDirecta,Nacional,1300,1430,80,110.00,PorTiempo,Ninguna
+EcoJet,118,Santa Cruz,Cobija,Transbordo,Nacional,1400,1600,80,130.00,Ninguna,Ninguna
+Amaszonas,119,Cochabamba,La Paz,Directo,Nacional,600,645,120,55.00,PorDistancia,Ninguna
+Amaszonas,120,Cochabamba,Santa Cruz,Directo,Nacional,700,800,120,60.00,PorDistancia,Ninguna
+Amaszonas,121,Cochabamba,Sucre,Directo,Nacional,800,845,100,50.00,PorTiempo,Ninguna
+Amaszonas,122,Cochabamba,Tarija,Directo,Nacional,900,1000,100,75.00,Ninguna,Ninguna
+Amaszonas,123,Cochabamba,Potosi,Directo,Nacional,1000,1040,80,55.00,Ninguna,Ninguna
+Amaszonas,124,Cochabamba,Trinidad,EscalaDirecta,Nacional,1100,1230,100,95.00,Ninguna,Ninguna
+Amaszonas,125,Cochabamba,Riberalta,Transbordo,Nacional,1200,1400,80,120.00,PorTiempo,Ninguna
+Amaszonas,126,Cochabamba,Guayaramerin,Transbordo,Nacional,1300,1500,80,130.00,Ninguna,Ninguna
+Amaszonas,127,Cochabamba,Cobija,EscalaDirecta,Nacional,1400,1545,80,115.00,Ninguna,Ninguna
+BoA,128,Sucre,La Paz,Directo,Nacional,600,655,100,75.00,PorTiempo,Ninguna
+BoA,129,Sucre,Santa Cruz,Directo,Nacional,700,800,100,70.00,Ninguna,Ninguna
+BoA,130,Sucre,Cochabamba,Directo,Nacional,800,845,100,50.00,Ninguna,Ninguna
+BoA,131,Sucre,Tarija,Directo,Nacional,900,945,100,60.00,PorDistancia,Ninguna
+BoA,132,Sucre,Potosi,Directo,Nacional,1000,1025,80,35.00,PorTiempo,Ninguna
+BoA,133,Sucre,Trinidad,EscalaDirecta,Nacional,1100,1230,80,95.00,PorDistancia,Ninguna
+BoA,134,Sucre,Riberalta,Transbordo,Nacional,1200,1420,80,130.00,Ninguna,Ninguna
+EcoJet,135,Tarija,La Paz,EscalaDirecta,Nacional,600,720,100,110.00,Ninguna,Ninguna
+EcoJet,136,Tarija,Santa Cruz,Directo,Nacional,700,810,100,85.00,Ninguna,Ninguna
+EcoJet,137,Tarija,Cochabamba,Directo,Nacional,800,900,100,75.00,PorDistancia,Ninguna
+EcoJet,138,Tarija,Sucre,Directo,Nacional,900,945,100,60.00,PorTiempo,Ninguna
+EcoJet,139,Tarija,Potosi,Directo,Nacional,1000,1040,80,55.00,PorDistancia,Ninguna
+Amaszonas,140,Potosi,La Paz,Directo,Nacional,600,645,80,65.00,Ninguna,Ninguna
+Amaszonas,141,Potosi,Santa Cruz,EscalaDirecta,Nacional,700,820,80,90.00,PorTiempo,Ninguna
+Amaszonas,142,Potosi,Cochabamba,Directo,Nacional,800,840,80,55.00,PorTiempo,Ninguna
+Amaszonas,143,Potosi,Sucre,Directo,Nacional,900,925,80,35.00,Ninguna,Ninguna
+Amaszonas,144,Potosi,Tarija,Directo,Nacional,1000,1040,80,55.00,PorDistancia,Ninguna
+BoA,145,Trinidad,La Paz,Directo,Nacional,600,715,100,95.00,Ninguna,Ninguna
+BoA,146,Trinidad,Santa Cruz,Directo,Nacional,700,745,120,55.00,Ninguna,Ninguna
+BoA,147,Trinidad,Cochabamba,EscalaDirecta,Nacional,800,930,100,95.00,PorDistancia,Ninguna
+EcoJet,148,Riberalta,La Paz,Transbordo,Nacional,600,800,80,130.00,Ninguna,Ninguna
+EcoJet,149,Riberalta,Santa Cruz,Directo,Nacional,700,820,100,100.00,PorDistancia,Ninguna
+EcoJet,150,Guayaramerin,La Paz,Transbordo,Nacional,600,800,80,140.00,PorDistancia,Ninguna
+EcoJet,151,Guayaramerin,Santa Cruz,Directo,Nacional,700,830,80,110.00,Ninguna,Ninguna
+Amaszonas,152,Cobija,La Paz,EscalaDirecta,Nacional,600,730,80,120.00,PorTiempo,Ninguna
+Amaszonas,153,Cobija,Santa Cruz,Transbordo,Nacional,700,900,80,130.00,Ninguna,Ninguna
+LATAM,154,La Paz,Lima,Directo,Internacional,600,800,180,210.00,Ninguna,Ninguna
+LATAM,155,La Paz,Santiago,Directo,Internacional,700,1000,180,280.00,PorTiempo,Ninguna
+LATAM,156,La Paz,Sao Paulo,Directo,Internacional,800,1130,200,350.00,PorDistancia,Ninguna
+LATAM,157,La Paz,Buenos Aires,Directo,Internacional,900,1200,180,290.00,PorTiempo,Ninguna
+Avianca,158,La Paz,Bogota,Directo,Internacional,1000,1230,160,320.00,PorDistancia,Ninguna
+Avianca,159,La Paz,Medellin,EscalaDirecta,Internacional,1100,1400,160,340.00,Ninguna,Ninguna
+Avianca,160,La Paz,Panama,EscalaDirecta,Internacional,1200,1530,160,380.00,PorTiempo,Ninguna
+American Airlines,161,La Paz,Miami,EscalaDirecta,Internacional,1300,1900,200,520.00,PorDistancia,Ninguna
+American Airlines,162,La Paz,New York,Transbordo,Internacional,1400,2200,200,680.00,PorDistancia,Ninguna
+American Airlines,163,La Paz,Dallas,Transbordo,Internacional,1500,2100,200,590.00,Ninguna,Ninguna
+Iberia,164,La Paz,Madrid,Transbordo,Internacional,2200,1400,250,890.00,Ninguna,Ninguna
+Iberia,165,La Paz,Barcelona,Transbordo,Internacional,2300,1500,250,910.00,PorDistancia,Ninguna
+Air France,166,La Paz,Paris,Transbordo,Internacional,2100,1300,250,950.00,Ninguna,Ninguna
+Copa Airlines,167,La Paz,Panama,Directo,Internacional,800,1100,160,370.00,PorDistancia,Ninguna
+Copa Airlines,168,La Paz,San Jose,EscalaDirecta,Internacional,900,1230,160,410.00,Ninguna,Ninguna
+Conviasa,169,La Paz,Caracas,Directo,Internacional,700,1000,150,310.00,Ninguna,Ninguna
+Aerolineas Argentinas,170,La Paz,Buenos Aires,Directo,Internacional,600,900,180,285.00,PorDistancia,Ninguna
+Aerolineas Argentinas,171,La Paz,Cordoba,EscalaDirecta,Internacional,700,1030,150,310.00,PorTiempo,Ninguna
+GOL,172,La Paz,Sao Paulo,Directo,Internacional,800,1130,180,340.00,Ninguna,Ninguna
+GOL,173,La Paz,Rio de Janeiro,EscalaDirecta,Internacional,900,1300,180,370.00,PorTiempo,Ninguna
+Azul,174,La Paz,Belo Horizonte,Transbordo,Internacional,1000,1430,150,360.00,PorTiempo,Ninguna
+LATAM,175,Santa Cruz,Lima,Directo,Internacional,600,830,180,230.00,Ninguna,Ninguna
+LATAM,176,Santa Cruz,Santiago,Directo,Internacional,700,1030,180,300.00,PorDistancia,Ninguna
+LATAM,177,Santa Cruz,Sao Paulo,Directo,Internacional,800,1100,200,320.00,PorTiempo,Ninguna
+LATAM,178,Santa Cruz,Buenos Aires,Directo,Internacional,900,1145,180,270.00,Ninguna,Ninguna
+LATAM,179,Santa Cruz,Bogota,EscalaDirecta,Internacional,1000,1300,160,340.00,Ninguna,Ninguna
+LATAM,180,Santa Cruz,Lima,EscalaDirecta,Internacional,1100,1330,180,245.00,Ninguna,Ninguna
+Avianca,181,Santa Cruz,Bogota,Directo,Internacional,600,830,160,310.00,Ninguna,Ninguna
+Avianca,182,Santa Cruz,Medellin,EscalaDirecta,Internacional,700,1000,160,330.00,Ninguna,Ninguna
+Avianca,183,Santa Cruz,Cali,EscalaDirecta,Internacional,800,1100,150,320.00,PorDistancia,Ninguna
+Avianca,184,Santa Cruz,Panama,EscalaDirecta,Internacional,900,1200,160,360.00,Ninguna,Ninguna
+American Airlines,185,Santa Cruz,Miami,Directo,Internacional,1000,1530,200,490.00,Ninguna,Ninguna
+American Airlines,186,Santa Cruz,New York,Transbordo,Internacional,1100,2000,200,650.00,PorDistancia,Ninguna
+American Airlines,187,Santa Cruz,Houston,EscalaDirecta,Internacional,1200,1830,200,560.00,PorTiempo,Ninguna
+American Airlines,188,Santa Cruz,Dallas,Transbordo,Internacional,1300,2030,200,580.00,PorDistancia,Ninguna
+Iberia,189,Santa Cruz,Madrid,Transbordo,Internacional,2200,1300,250,860.00,Ninguna,Ninguna
+Iberia,190,Santa Cruz,Barcelona,Transbordo,Internacional,2300,1400,250,880.00,PorTiempo,Ninguna
+Air France,191,Santa Cruz,Paris,Transbordo,Internacional,2100,1200,250,920.00,PorTiempo,Ninguna
+KLM,192,Santa Cruz,Amsterdam,Transbordo,Internacional,2000,1300,250,940.00,PorDistancia,Ninguna
+Copa Airlines,193,Santa Cruz,Panama,Directo,Internacional,600,900,160,350.00,PorTiempo,Ninguna
+Copa Airlines,194,Santa Cruz,San Jose,EscalaDirecta,Internacional,700,1030,150,390.00,PorDistancia,Ninguna
+Copa Airlines,195,Santa Cruz,Guatemala City,Transbordo,Internacional,800,1200,150,430.00,Ninguna,Ninguna
+Copa Airlines,196,Santa Cruz,Mexico City,Transbordo,Internacional,900,1400,150,480.00,PorTiempo,Ninguna
+Aerolineas Argentinas,197,Santa Cruz,Buenos Aires,Directo,Internacional,600,845,180,265.00,Ninguna,Ninguna
+Aerolineas Argentinas,198,Santa Cruz,Cordoba,EscalaDirecta,Internacional,700,1000,150,290.00,PorTiempo,Ninguna
+Aerolineas Argentinas,199,Santa Cruz,Mendoza,Transbordo,Internacional,800,1130,150,320.00,PorTiempo,Ninguna
+GOL,200,Santa Cruz,Sao Paulo,Directo,Internacional,600,830,180,310.00,PorDistancia,Ninguna
+GOL,201,Santa Cruz,Rio de Janeiro,Directo,Internacional,700,1000,180,340.00,PorDistancia,Ninguna
+GOL,202,Santa Cruz,Porto Alegre,EscalaDirecta,Internacional,800,1100,150,300.00,PorDistancia,Ninguna
+GOL,203,Santa Cruz,Curitiba,Directo,Internacional,900,1130,150,295.00,PorTiempo,Ninguna
+Azul,204,Santa Cruz,Belo Horizonte,Directo,Internacional,1000,1300,150,330.00,PorTiempo,Ninguna
+Azul,205,Santa Cruz,Brasilia,Directo,Internacional,1100,1400,150,320.00,Ninguna,Ninguna
+Azul,206,Santa Cruz,Manaus,EscalaDirecta,Internacional,1200,1530,130,380.00,Ninguna,Ninguna
+Turkish Airlines,207,Santa Cruz,Istanbul,Transbordo,Internacional,2300,1800,280,1100.00,PorTiempo,Ninguna
+Emirates,208,Santa Cruz,Dubai,Transbordo,Internacional,2200,1900,300,1250.00,PorDistancia,Ninguna
+Air Europa,209,Santa Cruz,Madrid,Transbordo,Internacional,2100,1200,250,870.00,PorTiempo,Ninguna
+Lufthansa,210,Santa Cruz,Frankfurt,Transbordo,Internacional,2200,1400,280,980.00,Ninguna,Ninguna
+British Airways,211,Santa Cruz,Londres,Transbordo,Internacional,2300,1500,280,1020.00,PorDistancia,Ninguna
+LATAM,212,Lima,La Paz,Directo,Internacional,1000,1200,180,210.00,PorTiempo,Ninguna
+LATAM,213,Lima,Santa Cruz,Directo,Internacional,1100,1330,180,230.00,Ninguna,Ninguna
+LATAM,214,Santiago,La Paz,Directo,Internacional,700,1000,180,280.00,PorTiempo,Ninguna
+LATAM,215,Santiago,Santa Cruz,Directo,Internacional,800,1130,180,300.00,Ninguna,Ninguna
+LATAM,216,Sao Paulo,La Paz,Directo,Internacional,1400,1730,200,350.00,Ninguna,Ninguna
+LATAM,217,Sao Paulo,Santa Cruz,Directo,Internacional,1500,1730,200,320.00,PorTiempo,Ninguna
+Avianca,218,Bogota,La Paz,Directo,Internacional,700,930,160,320.00,Ninguna,Ninguna
+Avianca,219,Bogota,Santa Cruz,Directo,Internacional,800,1030,160,310.00,PorDistancia,Ninguna
+Avianca,220,Panama,La Paz,EscalaDirecta,Internacional,900,1230,160,380.00,PorTiempo,Ninguna
+Avianca,221,Panama,Santa Cruz,Directo,Internacional,1000,1300,160,350.00,PorTiempo,Ninguna
+American Airlines,222,Miami,La Paz,EscalaDirecta,Internacional,800,1400,200,520.00,PorTiempo,Ninguna
+American Airlines,223,Miami,Santa Cruz,Directo,Internacional,900,1430,200,490.00,Ninguna,Ninguna
+American Airlines,224,New York,Santa Cruz,Transbordo,Internacional,700,1900,200,650.00,Ninguna,Ninguna
+Iberia,225,Madrid,La Paz,Transbordo,Internacional,1100,600,250,890.00,PorTiempo,Ninguna
+Iberia,226,Madrid,Santa Cruz,Transbordo,Internacional,1200,700,250,860.00,Ninguna,Ninguna
+Air France,227,Paris,Santa Cruz,Transbordo,Internacional,1300,600,250,920.00,Ninguna,Ninguna
+Copa Airlines,228,Panama,Santa Cruz,Directo,Internacional,700,1000,160,350.00,PorDistancia,Ninguna
+Copa Airlines,229,San Jose,Santa Cruz,EscalaDirecta,Internacional,800,1130,150,390.00,Ninguna,Ninguna
+Aerolineas Argentinas,230,Buenos Aires,La Paz,Directo,Internacional,700,1000,180,285.00,Ninguna,Ninguna
+Aerolineas Argentinas,231,Buenos Aires,Santa Cruz,Directo,Internacional,800,1045,180,265.00,PorDistancia,Ninguna
+GOL,232,Rio de Janeiro,Santa Cruz,Directo,Internacional,1000,1300,180,340.00,Ninguna,Ninguna
+GOL,233,Porto Alegre,Santa Cruz,EscalaDirecta,Internacional,1100,1400,150,300.00,PorDistancia,Ninguna
+Azul,234,Belo Horizonte,Santa Cruz,Directo,Internacional,1200,1500,150,330.00,PorTiempo,Ninguna
+Turkish Airlines,235,Istanbul,Santa Cruz,Transbordo,Internacional,1000,600,280,1100.00,PorTiempo,Ninguna
+Emirates,236,Dubai,Santa Cruz,Transbordo,Internacional,900,600,300,1250.00,PorDistancia,Ninguna
+Lufthansa,237,Frankfurt,Santa Cruz,Transbordo,Internacional,1100,600,280,980.00,PorTiempo,Ninguna
+British Airways,238,Londres,Santa Cruz,Transbordo,Internacional,1200,700,280,1020.00,Ninguna,Ninguna
+LATAM,239,Lima,Bogota,Directo,Internacional,800,1000,180,190.00,Ninguna,Ninguna
+LATAM,240,Lima,Santiago,Directo,Internacional,900,1130,180,220.00,Ninguna,Ninguna
+LATAM,241,Lima,Sao Paulo,Directo,Internacional,1000,1400,200,310.00,PorTiempo,Ninguna
+LATAM,242,Lima,Buenos Aires,Directo,Internacional,1100,1500,180,280.00,PorTiempo,Ninguna
+LATAM,243,Lima,Miami,EscalaDirecta,Internacional,1200,1900,200,480.00,PorTiempo,Ninguna
+LATAM,244,Lima,Madrid,Transbordo,Internacional,2200,1300,250,820.00,PorDistancia,Ninguna
+LATAM,245,Santiago,Bogota,Directo,Internacional,700,1000,180,240.00,PorTiempo,Ninguna
+LATAM,246,Santiago,Sao Paulo,Directo,Internacional,800,1130,200,290.00,Ninguna,Ninguna
+LATAM,247,Santiago,Buenos Aires,Directo,Internacional,900,1100,180,180.00,PorTiempo,Ninguna
+LATAM,248,Santiago,Miami,EscalaDirecta,Internacional,1000,1800,200,520.00,PorTiempo,Ninguna
+LATAM,249,Santiago,Madrid,Transbordo,Internacional,2200,1200,250,850.00,PorTiempo,Ninguna
+LATAM,250,Bogota,Miami,Directo,Internacional,700,1100,200,380.00,Ninguna,Ninguna
+Avianca,251,Bogota,Madrid,Directo,Internacional,2100,1100,250,780.00,PorDistancia,Ninguna
+Avianca,252,Bogota,New York,Directo,Internacional,800,1400,200,490.00,PorDistancia,Ninguna
+Avianca,253,Bogota,Mexico City,Directo,Internacional,900,1200,180,310.00,Ninguna,Ninguna
+Avianca,254,Bogota,Lima,Directo,Internacional,1000,1200,180,190.00,Ninguna,Ninguna
+Avianca,255,Bogota,Quito,Directo,Internacional,700,800,160,120.00,PorDistancia,Ninguna
+Avianca,256,Bogota,Guayaquil,Directo,Internacional,800,940,160,150.00,PorDistancia,Ninguna
+Copa Airlines,257,Panama,Miami,Directo,Internacional,700,1000,180,290.00,Ninguna,Ninguna
+Copa Airlines,258,Panama,New York,Directo,Internacional,800,1200,180,380.00,PorDistancia,Ninguna
+Copa Airlines,259,Panama,Bogota,Directo,Internacional,900,1100,160,200.00,PorTiempo,Ninguna
+Copa Airlines,260,Panama,Lima,Directo,Internacional,1000,1230,160,250.00,Ninguna,Ninguna
+Copa Airlines,261,Panama,Mexico City,Directo,Internacional,1100,1400,150,280.00,PorDistancia,Ninguna
+Copa Airlines,262,Panama,San Jose,Directo,Internacional,700,800,150,130.00,PorDistancia,Ninguna
+Copa Airlines,263,Panama,Guatemala City,Directo,Internacional,800,930,150,160.00,Ninguna,Ninguna
+Aeromexico,264,Mexico City,Miami,Directo,Internacional,700,1100,200,320.00,Ninguna,Ninguna
+Aeromexico,265,Mexico City,New York,Directo,Internacional,800,1300,200,380.00,PorDistancia,Ninguna
+Aeromexico,266,Mexico City,Madrid,Directo,Internacional,2200,1200,250,780.00,PorDistancia,Ninguna
+Aeromexico,267,Mexico City,Panama,Directo,Internacional,900,1200,150,280.00,PorDistancia,Ninguna
+Aeromexico,268,Mexico City,Bogota,Directo,Internacional,1000,1300,160,310.00,PorDistancia,Ninguna
+American Airlines,269,Miami,New York,Directo,Internacional,700,1000,250,180.00,Ninguna,Ninguna
+American Airlines,270,Miami,Madrid,Transbordo,Internacional,2100,1200,280,690.00,PorTiempo,Ninguna
+American Airlines,271,Miami,Bogota,Directo,Internacional,800,1200,200,380.00,PorDistancia,Ninguna
+American Airlines,272,Miami,Lima,EscalaDirecta,Internacional,900,1300,200,480.00,Ninguna,Ninguna
+American Airlines,273,Miami,Mexico City,Directo,Internacional,700,1000,200,320.00,Ninguna,Ninguna
+American Airlines,274,Miami,Cancun,Directo,Internacional,800,1000,180,210.00,PorDistancia,Ninguna
+American Airlines,275,New York,Madrid,Directo,Internacional,2200,1000,300,580.00,PorTiempo,Ninguna
+American Airlines,276,New York,Londres,Directo,Internacional,2100,900,300,560.00,PorDistancia,Ninguna
+American Airlines,277,New York,Paris,Directo,Internacional,2200,1100,300,590.00,PorDistancia,Ninguna
+American Airlines,278,New York,Miami,Directo,Internacional,700,1000,250,180.00,PorDistancia,Ninguna
+American Airlines,279,New York,Los Angeles,Directo,Internacional,700,1030,280,280.00,PorDistancia,Ninguna
+American Airlines,280,Los Angeles,New York,Directo,Internacional,700,1530,280,280.00,Ninguna,Ninguna
+American Airlines,281,Los Angeles,Tokyo,Directo,Internacional,1100,1500,300,850.00,PorTiempo,Ninguna
+American Airlines,282,Los Angeles,Sydney,Directo,Internacional,2200,800,300,980.00,PorTiempo,Ninguna
+American Airlines,283,Los Angeles,Mexico City,Directo,Internacional,700,1000,200,280.00,Ninguna,Ninguna
+Iberia,284,Madrid,Londres,Directo,Internacional,700,900,250,180.00,Ninguna,Ninguna
+Iberia,285,Madrid,Paris,Directo,Internacional,700,830,250,150.00,Ninguna,Ninguna
+Iberia,286,Madrid,Frankfurt,Directo,Internacional,800,1000,250,200.00,PorTiempo,Ninguna
+Iberia,287,Madrid,Rome,Directo,Internacional,800,1000,250,190.00,PorTiempo,Ninguna
+Iberia,288,Madrid,Buenos Aires,Directo,Internacional,2200,800,280,850.00,Ninguna,Ninguna
+Iberia,289,Madrid,Bogota,Directo,Internacional,2300,700,250,780.00,PorTiempo,Ninguna
+Iberia,290,Madrid,Mexico City,Directo,Internacional,2100,600,250,760.00,Ninguna,Ninguna
+Air France,291,Paris,Londres,Directo,Internacional,700,800,250,130.00,PorTiempo,Ninguna
+Air France,292,Paris,Frankfurt,Directo,Internacional,700,845,250,140.00,Ninguna,Ninguna
+Air France,293,Paris,Amsterdam,Directo,Internacional,700,815,250,120.00,PorTiempo,Ninguna
+Air France,294,Paris,Roma,Directo,Internacional,800,1000,250,160.00,Ninguna,Ninguna
+Air France,295,Paris,New York,Directo,Internacional,2200,1000,300,590.00,PorDistancia,Ninguna
+Air France,296,Paris,Tokyo,Transbordo,Internacional,1100,800,300,950.00,PorDistancia,Ninguna
+Air France,297,Paris,Buenos Aires,Transbordo,Internacional,2200,700,280,870.00,Ninguna,Ninguna
+Lufthansa,298,Frankfurt,Londres,Directo,Internacional,700,845,250,150.00,Ninguna,Ninguna
+Lufthansa,299,Frankfurt,Paris,Directo,Internacional,800,945,250,140.00,PorTiempo,Ninguna
+Lufthansa,300,Frankfurt,Amsterdam,Directo,Internacional,700,830,250,120.00,PorTiempo,Ninguna
+Lufthansa,301,Frankfurt,Roma,Directo,Internacional,800,1000,250,160.00,PorTiempo,Ninguna
+Lufthansa,302,Frankfurt,New York,Directo,Internacional,2200,1000,300,560.00,PorTiempo,Ninguna
+Lufthansa,303,Frankfurt,Tokyo,Directo,Internacional,1100,700,300,920.00,PorDistancia,Ninguna
+Lufthansa,304,Frankfurt,Dubai,Directo,Internacional,800,1400,280,450.00,Ninguna,Ninguna
+British Airways,305,Londres,Paris,Directo,Internacional,700,800,250,130.00,PorTiempo,Ninguna
+British Airways,306,Londres,Frankfurt,Directo,Internacional,700,900,250,150.00,PorDistancia,Ninguna
+British Airways,307,Londres,Madrid,Directo,Internacional,700,1000,250,180.00,PorTiempo,Ninguna
+British Airways,308,Londres,New York,Directo,Internacional,2200,900,300,560.00,Ninguna,Ninguna
+British Airways,309,Londres,Dubai,Directo,Internacional,800,1800,280,480.00,Ninguna,Ninguna
+British Airways,310,Londres,Sydney,Directo,Internacional,2200,600,300,1050.00,PorDistancia,Ninguna
+British Airways,311,Londres,Tokyo,Directo,Internacional,1100,800,300,890.00,PorTiempo,Ninguna
+KLM,312,Amsterdam,Londres,Directo,Internacional,700,800,250,130.00,Ninguna,Ninguna
+KLM,313,Amsterdam,Paris,Directo,Internacional,700,815,250,120.00,PorTiempo,Ninguna
+KLM,314,Amsterdam,Frankfurt,Directo,Internacional,700,830,250,120.00,PorTiempo,Ninguna
+KLM,315,Amsterdam,New York,Directo,Internacional,2200,900,300,540.00,PorDistancia,Ninguna
+KLM,316,Amsterdam,Tokyo,Directo,Internacional,1100,700,300,910.00,Ninguna,Ninguna
+Emirates,317,Dubai,Londres,Directo,Internacional,800,1200,350,580.00,Ninguna,Ninguna
+Emirates,318,Dubai,Paris,Directo,Internacional,800,1300,350,560.00,PorTiempo,Ninguna
+Emirates,319,Dubai,Frankfurt,Directo,Internacional,800,1200,350,540.00,Ninguna,Ninguna
+Emirates,320,Dubai,New York,Directo,Internacional,800,1400,350,720.00,PorTiempo,Ninguna
+Emirates,321,Dubai,Tokyo,Directo,Internacional,800,1900,350,680.00,PorTiempo,Ninguna
+Emirates,322,Dubai,Sydney,Directo,Internacional,800,2200,350,780.00,PorTiempo,Ninguna
+Emirates,323,Dubai,Singapur,Directo,Internacional,800,1800,350,480.00,PorDistancia,Ninguna
+Emirates,324,Dubai,Mumbai,Directo,Internacional,800,1100,350,280.00,PorTiempo,Ninguna
+Turkish Airlines,325,Istanbul,Londres,Directo,Internacional,800,1100,300,380.00,PorDistancia,Ninguna
+Turkish Airlines,326,Istanbul,Paris,Directo,Internacional,800,1030,300,360.00,PorDistancia,Ninguna
+Turkish Airlines,327,Istanbul,Frankfurt,Directo,Internacional,800,1000,300,340.00,PorTiempo,Ninguna
+Turkish Airlines,328,Istanbul,New York,Directo,Internacional,800,1300,300,580.00,Ninguna,Ninguna
+Turkish Airlines,329,Istanbul,Dubai,Directo,Internacional,800,1200,300,320.00,PorDistancia,Ninguna
+Turkish Airlines,330,Istanbul,Tokyo,Directo,Internacional,800,2000,300,780.00,PorTiempo,Ninguna
+Turkish Airlines,331,Istanbul,Singapur,Directo,Internacional,800,1900,300,580.00,Ninguna,Ninguna
+Japan Airlines,332,Tokyo,Los Angeles,Directo,Internacional,1100,600,300,850.00,Ninguna,Ninguna
+Japan Airlines,333,Tokyo,New York,Directo,Internacional,1200,900,300,920.00,PorTiempo,Ninguna
+Japan Airlines,334,Tokyo,Londres,Directo,Internacional,1100,1500,300,890.00,Ninguna,Ninguna
+Japan Airlines,335,Tokyo,Paris,Directo,Internacional,1100,1600,300,910.00,PorTiempo,Ninguna
+Japan Airlines,336,Tokyo,Singapur,Directo,Internacional,700,1200,280,380.00,PorTiempo,Ninguna
+Japan Airlines,337,Tokyo,Sydney,Directo,Internacional,1000,1900,280,620.00,PorTiempo,Ninguna
+Singapore Airlines,338,Singapur,Londres,Directo,Internacional,800,1400,350,780.00,PorTiempo,Ninguna
+Singapore Airlines,339,Singapur,Paris,Directo,Internacional,800,1500,350,800.00,PorTiempo,Ninguna
+Singapore Airlines,340,Singapur,Tokyo,Directo,Internacional,700,1200,280,380.00,PorDistancia,Ninguna
+Singapore Airlines,341,Singapur,Sydney,Directo,Internacional,800,1500,280,480.00,Ninguna,Ninguna
+Singapore Airlines,342,Singapur,Dubai,Directo,Internacional,800,1200,300,480.00,Ninguna,Ninguna
+Qantas,343,Sydney,Los Angeles,Directo,Internacional,2200,1200,300,980.00,PorDistancia,Ninguna
+Qantas,344,Sydney,Londres,Directo,Internacional,2100,600,300,1050.00,PorTiempo,Ninguna
+Qantas,345,Sydney,Tokyo,Directo,Internacional,700,1500,280,620.00,PorTiempo,Ninguna
+Qantas,346,Sydney,Singapur,Directo,Internacional,800,1200,280,480.00,Ninguna,Ninguna
+Qantas,347,Sydney,Auckland,Directo,Internacional,700,900,200,280.00,PorTiempo,Ninguna
+Air Canada,348,Toronto,Londres,Directo,Internacional,2200,1000,300,540.00,Ninguna,Ninguna
+Air Canada,349,Toronto,Paris,Directo,Internacional,2200,1100,300,560.00,PorTiempo,Ninguna
+Air Canada,350,Toronto,New York,Directo,Internacional,700,900,250,180.00,PorTiempo,Ninguna
+Air Canada,351,Toronto,Vancouver,Directo,Internacional,700,1000,250,280.00,PorTiempo,Ninguna
+Air Canada,352,Toronto,Mexico City,Directo,Internacional,800,1300,200,380.00,Ninguna,Ninguna
+Air Canada,353,Vancouver,Tokyo,Directo,Internacional,1100,1400,300,820.00,Ninguna,Ninguna
+Air Canada,354,Vancouver,Los Angeles,Directo,Internacional,700,900,250,180.00,Ninguna,Ninguna
+Copa Airlines,255,Lima,Panama,Directo,Internacional,1230,1400,160,250.00,PorTiempo,Ninguna
+LATAM,256,Santiago,Lima,Directo,Internacional,1400,1630,180,220.00,Ninguna,Ninguna
+LATAM,257,Buenos Aires,Lima,Directo,Internacional,1900,2200,180,280.00,Ninguna,Ninguna
+LATAM,258,Buenos Aires,Santiago,Directo,Internacional,1300,1500,180,180.00,Ninguna,Ninguna
+Avianca,259,Buenos Aires,Bogota,Directo,Internacional,800,1100,160,350.00,PorDistancia,Ninguna
+Iberia,260,Buenos Aires,Madrid,Directo,Internacional,800,600,280,850.00,Ninguna,Ninguna
+GOL,261,Buenos Aires,Sao Paulo,Directo,Internacional,700,900,180,180.00,Ninguna,Ninguna
+American Airlines,262,Buenos Aires,Miami,Directo,Internacional,1200,1900,200,580.00,PorTiempo,Ninguna
+Avianca,263,Bogota,Buenos Aires,Directo,Internacional,1100,1500,160,350.00,PorTiempo,Ninguna
+LATAM,264,Bogota,Santiago,Directo,Internacional,1300,1600,180,240.00,PorDistancia,Ninguna
+Copa Airlines,265,Bogota,Panama,Directo,Internacional,1100,1300,160,200.00,PorTiempo,Ninguna
+American Airlines,266,Miami,Buenos Aires,Directo,Internacional,1900,300,200,580.00,PorTiempo,Ninguna
+LATAM,267,Miami,Santiago,Directo,Internacional,2200,600,200,520.00,PorTiempo,Ninguna
+Copa Airlines,268,Miami,Panama,Directo,Internacional,1300,1600,180,290.00,Ninguna,Ninguna
+Avianca,269,New York,Bogota,Directo,Internacional,1200,1600,200,490.00,PorDistancia,Ninguna
+Air Canada,270,New York,Toronto,Directo,Internacional,900,1100,250,180.00,Ninguna,Ninguna
+Lufthansa,271,New York,Frankfurt,Directo,Internacional,1000,2200,300,560.00,Ninguna,Ninguna
+Air Canada,272,Los Angeles,Vancouver,Directo,Internacional,900,1100,250,180.00,PorTiempo,Ninguna
+LATAM,273,Madrid,Lima,Directo,Internacional,600,1400,250,820.00,Ninguna,Ninguna
+Iberia,274,Madrid,New York,Directo,Internacional,1000,1400,280,580.00,PorTiempo,Ninguna
+Alitalia,275,Madrid,Roma,Directo,Internacional,1000,1200,250,190.00,PorDistancia,Ninguna
+Iberia,276,Madrid,Amsterdam,Directo,Internacional,830,1030,250,160.00,Ninguna,Ninguna
+British Airways,277,Londres,Buenos Aires,Directo,Internacional,700,1700,280,1020.00,PorDistancia,Ninguna
+Singapore Airlines,278,Londres,Singapur,Directo,Internacional,1400,600,350,780.00,PorTiempo,Ninguna
+Alitalia,279,Londres,Roma,Directo,Internacional,1000,1200,250,170.00,PorDistancia,Ninguna
+Singapore Airlines,280,Frankfurt,Singapur,Directo,Internacional,800,600,280,780.00,PorTiempo,Ninguna
+Qantas,281,Frankfurt,Sydney,Directo,Internacional,600,600,300,1100.00,PorTiempo,Ninguna
+KLM,282,Amsterdam,Dubai,Directo,Internacional,800,1600,280,450.00,Ninguna,Ninguna
+KLM,283,Amsterdam,Singapur,Directo,Internacional,800,600,280,780.00,Ninguna,Ninguna
+Emirates,284,Dubai,Istanbul,Directo,Internacional,1200,1400,300,320.00,Ninguna,Ninguna
+Korean Air,285,Seoul,Tokyo,Directo,Internacional,900,1100,280,180.00,PorDistancia,Ninguna
+Korean Air,286,Seoul,Beijing,Directo,Internacional,700,850,250,150.00,PorTiempo,Ninguna
+Korean Air,287,Seoul,Singapur,Directo,Internacional,700,1100,280,360.00,PorTiempo,Ninguna
+Korean Air,288,Seoul,Los Angeles,Directo,Internacional,700,1200,300,820.00,PorDistancia,Ninguna
+Air China,289,Beijing,Tokyo,Directo,Internacional,930,1150,280,220.00,PorTiempo,Ninguna
+Air China,290,Beijing,Seoul,Directo,Internacional,850,1000,250,150.00,PorDistancia,Ninguna
+Air China,291,Beijing,Singapur,Directo,Internacional,700,1100,280,380.00,Ninguna,Ninguna
+Air China,292,Beijing,Frankfurt,Directo,Internacional,700,1300,300,900.00,Ninguna,Ninguna
+Air China,293,Beijing,Los Angeles,Directo,Internacional,700,1300,300,880.00,PorDistancia,Ninguna
+Thai Airways,294,Bangkok,Singapur,Directo,Internacional,830,1010,280,180.00,Ninguna,Ninguna
+Thai Airways,295,Bangkok,Tokyo,Directo,Internacional,1100,1500,280,380.00,PorDistancia,Ninguna
+Emirates,296,Bangkok,Dubai,Directo,Internacional,700,1100,300,380.00,PorTiempo,Ninguna
+Thai Airways,297,Bangkok,Londres,Directo,Internacional,700,1400,300,780.00,PorDistancia,Ninguna
+Air India,298,Mumbai,Dubai,Directo,Internacional,1100,1300,300,280.00,PorDistancia,Ninguna
+Air India,299,Mumbai,Londres,Directo,Internacional,700,1300,300,580.00,PorTiempo,Ninguna
+Lufthansa,300,Mumbai,Frankfurt,Directo,Internacional,700,1300,280,600.00,Ninguna,Ninguna
+Air India,301,Mumbai,Singapur,Directo,Internacional,700,1100,280,380.00,Ninguna,Ninguna
+Alitalia,302,Roma,Madrid,Directo,Internacional,1200,1400,250,190.00,PorTiempo,Ninguna
+Alitalia,303,Roma,Paris,Directo,Internacional,1200,1400,250,160.00,PorDistancia,Ninguna
+Lufthansa,304,Roma,Frankfurt,Directo,Internacional,1200,1400,250,160.00,Ninguna,Ninguna
+British Airways,305,Roma,Londres,Directo,Internacional,1200,1400,250,170.00,PorTiempo,Ninguna
+KLM,306,Roma,Amsterdam,Directo,Internacional,1200,1415,250,170.00,Ninguna,Ninguna
+Copa Airlines,307,San Jose,Panama,Directo,Internacional,900,1010,150,130.00,Ninguna,Ninguna
+American Airlines,308,San Jose,Miami,Directo,Internacional,700,1000,180,350.00,Ninguna,Ninguna
+Avianca,309,San Jose,Bogota,Directo,Internacional,700,1000,150,280.00,Ninguna,Ninguna
+Copa Airlines,310,Guatemala City,Panama,Directo,Internacional,1100,1240,150,160.00,PorTiempo,Ninguna
+American Airlines,311,Guatemala City,Miami,Directo,Internacional,700,1000,180,370.00,Ninguna,Ninguna
+Aeromexico,312,Guatemala City,Mexico City,Directo,Internacional,700,900,150,200.00,PorDistancia,Ninguna
+American Airlines,313,Cancun,Miami,Directo,Internacional,1200,1400,180,210.00,Ninguna,Ninguna
+Aeromexico,314,Cancun,Mexico City,Directo,Internacional,900,1100,180,180.00,Ninguna,Ninguna
+American Airlines,315,Cancun,New York,Directo,Internacional,700,1100,200,320.00,Ninguna,Ninguna
+Singapore Airlines,316,Singapur,Bangkok,Directo,Internacional,700,830,280,180.00,PorTiempo,Ninguna
+Singapore Airlines,317,Singapur,Kuala Lumpur,Directo,Internacional,700,800,280,120.00,PorDistancia,Ninguna
+Singapore Airlines,318,Singapur,Jakarta,Directo,Internacional,700,830,280,150.00,Ninguna,Ninguna
+Singapore Airlines,319,Singapur,Frankfurt,Directo,Internacional,600,1400,280,760.00,PorTiempo,Ninguna
+Air New Zealand,320,Auckland,Sydney,Directo,Internacional,1100,1300,200,280.00,PorDistancia,Ninguna
+Air New Zealand,321,Auckland,Los Angeles,Directo,Internacional,1300,600,250,980.00,Ninguna,Ninguna
+Air Canada,322,Vancouver,Toronto,Directo,Internacional,1300,1600,250,280.00,PorDistancia,Ninguna
+Aeromexico,323,Mexico City,Los Angeles,Directo,Internacional,1300,1600,200,280.00,PorTiempo,Ninguna
+Aeromexico,324,Mexico City,Cancun,Directo,Internacional,700,900,180,180.00,PorTiempo,Ninguna
+LATAM,325,Sao Paulo,Buenos Aires,Directo,Internacional,700,900,200,200.00,PorTiempo,Ninguna
+LATAM,326,Sao Paulo,Lima,Directo,Internacional,1400,1700,200,310.00,PorTiempo,Ninguna
+Avianca,327,Sao Paulo,Bogota,Directo,Internacional,800,1100,180,320.00,Ninguna,Ninguna
+LATAM,328,Sao Paulo,Miami,Directo,Internacional,1000,1500,200,480.00,Ninguna,Ninguna
+Iberia,329,Sao Paulo,Madrid,Directo,Internacional,2200,1200,280,820.00,Ninguna,Ninguna
+Lufthansa,330,Sao Paulo,Frankfurt,Directo,Internacional,2300,1300,280,900.00,Ninguna,Ninguna
+GOL,331,Rio de Janeiro,Sao Paulo,Directo,Internacional,700,800,180,100.00,Ninguna,Ninguna
+LATAM,332,Rio de Janeiro,Buenos Aires,Directo,Internacional,800,1100,180,210.00,Ninguna,Ninguna
+LATAM,333,Rio de Janeiro,Lima,Directo,Internacional,700,1100,180,330.00,PorTiempo,Ninguna
+American Airlines,334,Rio de Janeiro,Miami,Directo,Internacional,800,1400,200,500.00,PorDistancia,Ninguna
+Iberia,335,Rio de Janeiro,Madrid,Directo,Internacional,2200,1200,280,840.00,PorDistancia,Ninguna
+Avianca,336,Quito,Bogota,Directo,Internacional,900,1100,160,120.00,PorDistancia,Ninguna
+LATAM,337,Quito,Lima,Directo,Internacional,800,1000,160,180.00,Ninguna,Ninguna
+Copa Airlines,338,Quito,Panama,Directo,Internacional,700,900,150,200.00,PorDistancia,Ninguna
+American Airlines,339,Quito,Miami,Directo,Internacional,700,1200,180,420.00,Ninguna,Ninguna
+Avianca,340,Guayaquil,Bogota,Directo,Internacional,1120,1300,160,150.00,Ninguna,Ninguna
+LATAM,341,Guayaquil,Lima,Directo,Internacional,700,830,160,160.00,Ninguna,Ninguna
+Copa Airlines,342,Guayaquil,Panama,Directo,Internacional,700,910,150,210.00,PorTiempo,Ninguna
+Conviasa,343,Caracas,La Paz,Directo,Internacional,1000,1300,150,310.00,Ninguna,Ninguna
+Conviasa,344,Caracas,Bogota,Directo,Internacional,700,900,150,180.00,Ninguna,Ninguna
+Copa Airlines,345,Caracas,Panama,Directo,Internacional,700,930,150,230.00,Ninguna,Ninguna
+American Airlines,346,Caracas,Miami,Directo,Internacional,700,1100,180,400.00,PorDistancia,Ninguna
+LATAM,347,Asuncion,Sao Paulo,Directo,Internacional,700,900,150,220.00,Ninguna,Ninguna
+Aerolineas Argentinas,348,Asuncion,Buenos Aires,Directo,Internacional,700,900,150,180.00,PorTiempo,Ninguna
+BoA,349,Asuncion,Santa Cruz,Directo,Internacional,700,930,100,200.00,Ninguna,Ninguna
+Aerolineas Argentinas,350,Montevideo,Buenos Aires,Directo,Internacional,700,830,150,120.00,Ninguna,Ninguna
+LATAM,351,Montevideo,Sao Paulo,Directo,Internacional,700,940,150,230.00,PorDistancia,Ninguna
+LATAM,352,Montevideo,Santiago,Directo,Internacional,700,920,150,200.00,PorDistancia,Ninguna
+Japan Airlines,353,Tokyo,Seoul,Directo,Internacional,700,900,280,180.00,PorTiempo,Ninguna
+Japan Airlines,354,Tokyo,Beijing,Directo,Internacional,700,920,280,220.00,Ninguna,Ninguna
+Japan Airlines,355,Tokyo,Shanghai,Directo,Internacional,700,910,280,200.00,PorTiempo,Ninguna
+Japan Airlines,356,Tokyo,Bangkok,Directo,Internacional,700,1100,280,380.00,Ninguna,Ninguna

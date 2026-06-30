@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TipoOptimizacion
+comment1.params=viaje\ nodoActual
+comment1.target=double\ calcularPeso(Viaje,\ NodoAeropuerto)
+numComments=2

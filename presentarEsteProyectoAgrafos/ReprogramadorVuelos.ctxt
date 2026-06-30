@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ReprogramadorVuelos
+comment1.params=grafo
+comment1.target=ReprogramadorVuelos(GrafoViajes)
+comment2.params=vueloCancelado\ causa
+comment2.target=void\ reprogramar(Viaje,\ TipoPenalizacion)
+numComments=3

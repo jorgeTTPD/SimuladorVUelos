@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GrafoViajes
+comment1.params=escritor
+comment1.target=GrafoViajes(EscritorArchivos)
+comment10.params=lista
+comment10.target=java.util.List\ invertirLista(java.util.List)
+comment2.params=
+comment2.target=GrafoViajes()
+comment3.params=
+comment3.target=java.lang.String\ getUltimoResultado()
+comment4.params=nombre
+comment4.target=void\ agregarAeropuerto(java.lang.String)
+comment5.params=viaje
+comment5.target=void\ conectarViaje(Viaje)
+comment6.params=
+comment6.target=IteradorAeropuertos\ crearIterador()
+comment7.params=origen\ destino\ criterio
+comment7.target=void\ buscarRutaOptima(java.lang.String,\ java.lang.String,\ TipoOptimizacion)
+comment8.params=nombre
+comment8.target=NodoAeropuerto\ buscarNodoPorNombre(java.lang.String)
+comment9.params=destino\ criterio
+comment9.target=void\ imprimirRuta(java.lang.String,\ TipoOptimizacion)
+numComments=11

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EstadoDijkstra
+comment1.params=
+comment1.target=EstadoDijkstra()
+comment2.params=
+comment2.target=double\ getPesoAcumulado()
+comment3.params=pesoAcumulado
+comment3.target=void\ setPesoAcumulado(double)
+comment4.params=
+comment4.target=NodoAeropuerto\ getNodoAnterior()
+comment5.params=nodoAnterior
+comment5.target=void\ setNodoAnterior(NodoAeropuerto)
+comment6.params=
+comment6.target=Viaje\ getViajeAnterior()
+comment7.params=viajeAnterior
+comment7.target=void\ setViajeAnterior(Viaje)
+comment8.params=
+comment8.target=boolean\ isVisitado()
+comment9.params=visitado
+comment9.target=void\ setVisitado(boolean)
+numComments=10

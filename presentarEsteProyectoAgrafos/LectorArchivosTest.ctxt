@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LectorArchivosTest
+comment1.params=
+comment1.target=void\ setUp()
+comment10.params=
+comment10.target=void\ lector_procesaVueloConPromocion()
+comment11.params=
+comment11.target=void\ lector_procesaBusqueda()
+comment12.params=
+comment12.target=void\ lector_procesaReprogramacion()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=nombre\ contenido
+comment3.target=java.lang.String\ crearArchivoTemporal(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ lector_cargaTresAeropuertos()
+comment5.params=
+comment5.target=void\ lector_saltaEncabezadoAeropuertos()
+comment6.params=
+comment6.target=void\ lector_saltaLineasVacias()
+comment7.params=
+comment7.target=void\ lector_lineaInvalidaNoRompe()
+comment8.params=
+comment8.target=void\ lector_archivoInexistenteNoRompe()
+comment9.params=
+comment9.target=void\ lector_procesaVuelo()
+numComments=13

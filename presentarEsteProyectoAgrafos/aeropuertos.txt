@@ -1,0 +1,190 @@
+Ciudad,Pais
+La Paz,Bolivia
+Santa Cruz,Bolivia
+Cochabamba,Bolivia
+Sucre,Bolivia
+Tarija,Bolivia
+Potosi,Bolivia
+Trinidad,Bolivia
+Riberalta,Bolivia
+Guayaramerin,Bolivia
+Cobija,Bolivia
+Buenos Aires,Argentina
+Cordoba,Argentina
+Mendoza,Argentina
+Rosario,Argentina
+Bariloche,Argentina
+Salta,Argentina
+Tucuman,Argentina
+Mar del Plata,Argentina
+Sao Paulo,Brasil
+Rio de Janeiro,Brasil
+Brasilia,Brasil
+Salvador,Brasil
+Fortaleza,Brasil
+Belo Horizonte,Brasil
+Manaus,Brasil
+Recife,Brasil
+Porto Alegre,Brasil
+Curitiba,Brasil
+Belem,Brasil
+Florianopolis,Brasil
+Santiago,Chile
+Antofagasta,Chile
+Iquique,Chile
+Concepcion,Chile
+Puerto Montt,Chile
+Punta Arenas,Chile
+Lima,Peru
+Cusco,Peru
+Arequipa,Peru
+Iquitos,Peru
+Trujillo,Peru
+Piura,Peru
+Chiclayo,Peru
+Bogota,Colombia
+Medellin,Colombia
+Cali,Colombia
+Cartagena,Colombia
+Barranquilla,Colombia
+Bucaramanga,Colombia
+Quito,Ecuador
+Guayaquil,Ecuador
+Cuenca,Ecuador
+Caracas,Venezuela
+Maracaibo,Venezuela
+Valencia,Venezuela
+Asuncion,Paraguay
+Ciudad del Este,Paraguay
+Montevideo,Uruguay
+Punta del Este,Uruguay
+Panama,Panama
+David,Panama
+San Jose,Costa Rica
+Liberia,Costa Rica
+Guatemala City,Guatemala
+Flores,Guatemala
+Tegucigalpa,Honduras
+San Pedro Sula,Honduras
+Managua,Nicaragua
+San Salvador,El Salvador
+Belize City,Belize
+Mexico City,Mexico
+Guadalajara,Mexico
+Monterrey,Mexico
+Cancun,Mexico
+Merida,Mexico
+Tijuana,Mexico
+Oaxaca,Mexico
+Miami,Estados Unidos
+New York,Estados Unidos
+Los Angeles,Estados Unidos
+Chicago,Estados Unidos
+Dallas,Estados Unidos
+Houston,Estados Unidos
+Atlanta,Estados Unidos
+Orlando,Estados Unidos
+Washington,Estados Unidos
+San Francisco,Estados Unidos
+Boston,Estados Unidos
+Las Vegas,Estados Unidos
+Seattle,Estados Unidos
+Denver,Estados Unidos
+Phoenix,Estados Unidos
+Madrid,España
+Barcelona,España
+Sevilla,España
+Valencia,España
+Bilbao,España
+Malaga,España
+Paris,Francia
+Lyon,Francia
+Niza,Francia
+Londres,Reino Unido
+Manchester,Reino Unido
+Edimburgo,Reino Unido
+Amsterdam,Holanda
+Frankfurt,Alemania
+Munich,Alemania
+Berlin,Alemania
+Hamburgo,Alemania
+Roma,Italia
+Milan,Italia
+Venecia,Italia
+Napoles,Italia
+Zurich,Suiza
+Ginebra,Suiza
+Lisboa,Portugal
+Oporto,Portugal
+Bruselas,Belgica
+Viena,Austria
+Praga,Republica Checa
+Varsovia,Polonia
+Budapest,Hungria
+Estocolmo,Suecia
+Oslo,Noruega
+Copenhague,Dinamarca
+Helsinki,Finlandia
+Dubai,Emiratos Arabes Unidos
+Abu Dhabi,Emiratos Arabes Unidos
+Doha,Qatar
+Istanbul,Turquia
+Ankara,Turquia
+Tel Aviv,Israel
+El Cairo,Egipto
+Casablanca,Marruecos
+Johannesburgo,Sudafrica
+Nairobi,Kenya
+Lagos,Nigeria
+Addis Abeba,Etiopia
+Toronto,Canada
+Montreal,Canada
+Vancouver,Canada
+Calgary,Canada
+Ottawa,Canada
+Sydney,Australia
+Melbourne,Australia
+Brisbane,Australia
+Perth,Australia
+Auckland,Nueva Zelanda
+Tokyo,Japon
+Osaka,Japon
+Sapporo,Japon
+Seul,Corea del Sur
+Beijing,China
+Shanghai,China
+Hong Kong,China
+Guangzhou,China
+Singapur,Singapur
+Bangkok,Tailandia
+Kuala Lumpur,Malasia
+Jakarta,Indonesia
+Manila,Filipinas
+Mumbai,India
+Delhi,India
+Bangalore,India
+Chennai,India
+Karachi,Pakistan
+Colombo,Sri Lanka
+Kathmandu,Nepal
+Moscu,Rusia
+San Petersburgo,Rusia
+Kiev,Ucrania
+Minsk,Bielorrusia
+Bucarest,Rumania
+Sofia,Bulgaria
+Atenas,Grecia
+Belgrado,Serbia
+Zagreb,Croacia
+Ljubljana,Eslovenia
+La Habana,Cuba
+Santo Domingo,Republica Dominicana
+San Juan,Puerto Rico
+Kingston,Jamaica
+Puerto Principe,Haiti
+Nassau,Bahamas
+Bridgetown,Barbados
+Puerto Espana,Trinidad y Tobago
+Georgetown,Guyana
+Paramaribo,Surinam
+Cayena,Guyana Francesa

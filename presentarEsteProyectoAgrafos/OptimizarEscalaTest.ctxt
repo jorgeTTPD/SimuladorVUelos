@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=OptimizarEscalaTest
+comment1.params=
+comment1.target=void\ escala_primerVueloSinEspera()
+comment2.params=
+comment2.target=void\ escala_tiempoEsperaPositivo()
+comment3.params=
+comment3.target=void\ escala_tiempoEsperaConSaltoDeDia()
+comment4.params=
+comment4.target=void\ escala_sinEsperaVueloInmediato()
+numComments=5

@@ -1,0 +1,87 @@
+
+BUSQUEDA,La Paz,Santa Cruz,COSTO
+BUSQUEDA,La Paz,Santa Cruz,TIEMPO
+BUSQUEDA,La Paz,Santa Cruz,ESCALA
+BUSQUEDA,La Paz,Miami,COSTO
+BUSQUEDA,Cochabamba,Miami,COSTO
+BUSQUEDA,Sucre,Santa Cruz,COSTO
+BUSQUEDA,Sucre,Santa Cruz,TIEMPO
+REPROGRAMAR,La Paz,Santa Cruz,Interna
+BUSQUEDA,La Paz,Santa Cruz,COSTO
+BUSQUEDA,Buenos Aires,Madrid,COSTO
+BUSQUEDA,Santiago,Miami,COSTO
+REPROGRAMAR,La Paz,Sucre,Externa
+BUSQUEDA,La Paz,Sucre,COSTO
+BUSQUEDA,Tarija,Santa Cruz,COSTO
+BUSQUEDA,Tarija,Santa Cruz,ESCALA
+REPROGRAMAR,Santa Cruz,Lima,Interna
+BUSQUEDA,Santa Cruz,Miami,COSTO
+BUSQUEDA,Santa Cruz,Madrid,COSTO
+BUSQUEDA,Sucre,Bogota,COSTO
+BUSQUEDA,La Paz,Miami,TIEMPO
+REPROGRAMAR,Cochabamba,Paris,InternaBUSQUEDA,La Paz,Lima,COSTO
+BUSQUEDA,La Paz,Miami,ESCALA
+BUSQUEDA,La Paz,Miami,COSTO
+BUSQUEDA,La Paz,Miami,TIEMPO
+REPROGRAMAR,Cochabamba,La Paz,Interna
+BUSQUEDA,La Paz,Miami,ESCALA
+BUSQUEDA,Trinidad,Miami,ESCALA
+BUSQUEDA,Tarija,Miami,ESCALA
+BUSQUEDA,La Paz,Miami,TIEMPO
+BUSQUEDA,La Paz,Miami,COSTO
+BUSQUEDA,La Paz,Miami,ESCALA
+BUSQUEDA,La Paz,Miami,COSTO
+BUSQUEDA,La Paz,Miami,ESCALA
+BUSQUEDA,La Paz,Miami,TIEMPO
+BUSQUEDA,La Paz,Madrid,COSTO
+BUSQUEDA,La Paz,Madrid,COSTO
+BUSQUEDA,La Paz,Madrid,TIEMPO
+BUSQUEDA,La Paz,Madrid,ESCALA
+REPROGRAMAR,La Paz,Madrid,Externa
+REPROGRAMAR,La Paz,Madrid,Externa
+REPROGRAMAR,La Paz,Madrid,Interna
+REPROGRAMAR,La Paz,Madrid,Ninguna
+REPROGRAMAR,La Paz,Madrid,Ninguna
+REPROGRAMAR,La Paz,Madrid,Ninguna
+REPROGRAMAR,La Paz,Madrid,Ninguna
+REPROGRAMAR,La Paz,Madrid,Ninguna
+REPROGRAMAR,La Paz,Madrid,Ninguna
+BUSQUEDA,La Paz,Madrid,ESCALA
+BUSQUEDA,La Paz,Madrid,ESCALA
+BUSQUEDA,Riberalta,Sao Paulo,COSTO
+BUSQUEDA,Riberalta,Sao Paulo,TIEMPO
+BUSQUEDA,Riberalta,Sao Paulo,ESCALA
+BUSQUEDA,Riberalta,Sao Paulo,ESCALA
+BUSQUEDA,Riberalta,Rio de Janeiro,ESCALA
+BUSQUEDA,Riberalta,Rio de Janeiro,COSTO
+BUSQUEDA,Riberalta,Rio de Janeiro,COSTO
+BUSQUEDA,Sucre,Santa Cruz,TIEMPO
+BUSQUEDA,La Paz,Sucre,COSTO
+BUSQUEDA,La Paz,Trinidad,COSTO
+BUSQUEDA,La Paz,Sucre,ESCALA
+BUSQUEDA,Cochabamba,Miami,COSTO
+BUSQUEDA,Tarija,Londres,COSTO
+BUSQUEDA,La Paz,Miami,COSTO
+REPROGRAMAR,La Paz,Miami,Interna
+BUSQUEDA,La Paz,Bogota,ESCALA
+REPROGRAMAR,La Paz,Bogota,Interna
+REPROGRAMAR,Santa Cruz,Bogota,Interna
+REPROGRAMAR,Lima,Bogota,Interna
+BUSQUEDA,La Paz,Bogota,ESCALA
+BUSQUEDA,La Paz,Bogota,ESCALA
+BUSQUEDA,La Paz,Bogota,ESCALA
+BUSQUEDA,La Paz,Bogota,COSTO
+REPROGRAMAR,La Paz,Bogota,Interna
+BUSQUEDA,La Paz,Bogota,COSTO
+BUSQUEDA,La Paz,Bogota,COSTO
+REPROGRAMAR,Santa Cruz,Bogota,Interna
+BUSQUEDA,La Paz,Bogota,COSTO
+REPROGRAMAR,Lima,Bogota,Externa
+BUSQUEDA,La Paz,Bogota,COSTO
+REPROGRAMAR,Santiago,Bogota,Externa
+BUSQUEDA,La Paz,Bogota,COSTO
+REPROGRAMAR,Caracas,Bogota,Externa
+BUSQUEDA,La Paz,Bogota,COSTO
+BUSQUEDA,La Paz,Miami,COSTO
+BUSQUEDA,La Paz,Miami,TIEMPO
+REPROGRAMAR,La Paz,Miami,Interna

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IteradorAeropuertos
+comment1.params=lista
+comment1.target=IteradorAeropuertos(java.util.List)
+comment2.params=
+comment2.target=boolean\ tieneSiguiente()
+comment3.params=
+comment3.target=NodoAeropuerto\ siguiente()
+numComments=4

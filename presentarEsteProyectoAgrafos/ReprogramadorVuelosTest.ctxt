@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ReprogramadorVuelosTest
+comment1.params=
+comment1.target=GrafoViajes\ crearGrafoConVuelos()
+comment2.params=
+comment2.target=void\ reprogramar_porProblemaInterno()
+comment3.params=
+comment3.target=void\ reprogramar_porProblemaExterno()
+comment4.params=
+comment4.target=void\ reprogramar_liberaAsiento()
+comment5.params=
+comment5.target=void\ reprogramar_sinRutaAlternativa()
+numComments=6

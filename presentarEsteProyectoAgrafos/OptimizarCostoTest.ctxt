@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OptimizarCostoTest
+comment1.params=
+comment1.target=void\ costo_sinPromocionNiPenalizacion()
+comment2.params=
+comment2.target=void\ costo_conPromocionPorTiempo()
+comment3.params=
+comment3.target=void\ costo_conPromocionPorDistancia()
+comment4.params=
+comment4.target=void\ costo_conPenalizacionInterna()
+comment5.params=
+comment5.target=void\ costo_conPenalizacionExterna()
+numComments=6

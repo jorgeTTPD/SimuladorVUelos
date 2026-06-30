@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IteradorAeropuertosTest
+comment1.params=
+comment1.target=void\ iterador_listaVaciaNoPoseeElementos()
+comment2.params=
+comment2.target=void\ iterador_listaConUnElemento()
+comment3.params=
+comment3.target=void\ iterador_recorreTodosLosElementos()
+comment4.params=
+comment4.target=void\ iterador_siguienteDevuelveNuloCuandoTermina()
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NodoAeropuertoTest
+comment1.params=
+comment1.target=void\ nodo_nombreCorrecto()
+comment2.params=
+comment2.target=void\ nodo_estadoInicialPesoInfinito()
+comment3.params=
+comment3.target=void\ nodo_estadoInicialNoVisitado()
+comment4.params=
+comment4.target=void\ nodo_estadoInicialSinViajeAnterior()
+comment5.params=
+comment5.target=void\ nodo_agregarViaje()
+comment6.params=
+comment6.target=void\ nodo_reiniciarEstadoLimpiaValores()
+comment7.params=
+comment7.target=void\ nodo_setPesoAcumulado()
+comment8.params=
+comment8.target=void\ nodo_setNodoAnterior()
+numComments=9
