@@ -54,7 +54,9 @@ BoA,101,La Paz,Santa Cruz,Directo,Nacional,600,730,150,89.00,PorTiempo,Ninguna
 ...
 ```
 
-**`entrada.txt`** (modo por lotes)
+**`entrada.txt`** (registro de operaciones)
+
+Cada búsqueda o reprogramación realizada desde la interfaz se guarda en este archivo con el formato:
 
 ```
 BUSQUEDA,<origen>,<destino>,<COSTO|TIEMPO|ESCALA>
