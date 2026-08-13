@@ -84,7 +84,9 @@ REPROGRAMAR,<origen>,<destino>,<Interna|Externa>
 
 ## ▶️ Cómo ejecutar
 
-1. Abrir el proyecto en **BlueJ** (o cualquier IDE compatible con Java).
+> 📂 Todo el código fuente se encuentra en la carpeta **`presentarEsteProyectoAgrafos/`** (contiene `package.bluej`, así que se abre directamente como proyecto de BlueJ).
+
+1. Abrir la carpeta `presentarEsteProyectoAgrafos/` en **BlueJ** (o en cualquier IDE compatible con Java).
 2. Ejecutar la clase `Main`.
 3. Seleccionar origen, destino y criterio de optimización en la interfaz.
 4. El itinerario resultante se muestra en pantalla y se guarda en `salida.txt`.
@@ -99,7 +101,7 @@ Cada clase principal tiene su prueba asociada (`*Test.java`) ejecutable desde Bl
 
 ## 🛠️ Tecnologías
 
-- ☕ **Java**
+- ☕ **Java 8+**
 - 📘 **BlueJ** (entorno de desarrollo educativo)
 - 🖥️ **Swing** (interfaz gráfica)
 - 🕸️ **Teoría de grafos** / algoritmo de **Dijkstra**
